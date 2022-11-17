@@ -20,6 +20,9 @@ public class Employee {
 	private void empAddress() {
 		System.out.println("empAddress");
 	}
+	private void empAge() {
+		System.out.println("empAge");
+	}	
 	
 	public static void main(String[] args) {
 		
